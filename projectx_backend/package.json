@@ -1,0 +1,9 @@
+{
+  "name": "projectx_backend",
+  "version": "1.0.0",
+  "description": "backend system for our processing cocktails, sending commands to arduino and other stuff",
+  "main": "index.js",
+  "repository": "https://github.com/0x0leon/projectx.git",
+  "author": "Leon Selz",
+  "license": "MIT"
+}
